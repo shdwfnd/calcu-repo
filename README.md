@@ -1,4 +1,4 @@
-Project Requirements
+# Project Requirements
 • Create a group composed of 4-5 people from your section. Each individual should only belong to one group.
 
 • Develop a calculator in Python with a graphical user interface (UI).
@@ -31,7 +31,7 @@ Project Requirements
 
 • A 2-3 minute video (by group) that documents what you have done in this project.
 
-GIT
+## GIT
 
 Since we will be using Github, let us take advantage of the optimizations it introduces on our workflow. • Your project should have a minimum of 3 branches. – The main development branch – Branch for developing the calculator logic. – Brach for developing the UI. Depending on how you divide the tasks, your repository can have more branches. • You can use Github’s issues feature to act as a checklist/project manage�ment tool. You can create individual issues to signify each feature that you want to implement for the project. • Add a README.md file in the root directory of your repository.
 
